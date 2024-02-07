@@ -1,0 +1,8 @@
+numpy
+scipy
+matplotlib
+pandas
+mne
+h5py
+pyEDFlib
+plotly
